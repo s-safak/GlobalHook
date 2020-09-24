@@ -1,0 +1,8 @@
+F:\_Source\_c#\globalhook_src\bin\Debug\GlobalHookDemo.XML
+F:\_Source\_c#\globalhook_src\bin\Debug\GlobalHookDemo.exe
+F:\_Source\_c#\globalhook_src\obj\Debug\GlobalHookDemo.csprojResolveAssemblyReference.cache
+F:\_Source\_c#\globalhook_src\obj\Debug\GlobalHookDemo.MainForm.resources
+F:\_Source\_c#\globalhook_src\obj\Debug\GlobalHookDemo.csproj.GenerateResource.Cache
+F:\_Source\_c#\globalhook_src\obj\Debug\GlobalHookDemo.pdb
+F:\_Source\_c#\globalhook_src\bin\Debug\GlobalHookDemo.pdb
+F:\_Source\_c#\globalhook_src\obj\Debug\GlobalHookDemo.exe
